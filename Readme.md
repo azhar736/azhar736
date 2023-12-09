@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azhar736" alt="azhar736" /></a> </p>
 
-- 🔭 I’m currently working on **optimizing the backend of a large-scale application for better performance and scalability and also on Micro Services**
+- 🔭 I’m currently working on **optimizing the backend of a large-scale application for better performance and scalability and also focus on Micro Services**
 
 - 🌱 I’m currently learning **AWS, Grapgh QL and Kubernetes**
 
