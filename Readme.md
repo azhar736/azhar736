@@ -5,11 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azhar736" alt="azhar736" /></a> </p>
 
+- 🔭 I’m currently working on **optimizing the backend of a large-scale application for better performance and scalability and also on Micro Services**
+
+- 🌱 I’m currently learning **AWS, Grapgh QL and Kubernetes**
+
+- 👯 I’m looking to collaborate on **Fullstack projects**
+
+- 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
+
 - 📫 How to reach me **azhark3113@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mern-stack-developer-expert/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mern-stack-developer-expert/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/mern-stack-developer-expert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mern-stack-developer-expert" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
